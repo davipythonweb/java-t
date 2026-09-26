@@ -17,11 +17,6 @@ public class TipoPrimitivo {
 		System.out.println(idade);
 		System.out.println(idade2);
 		
-		final double Dissidio = 10.8;
-		
-		var valor = 5.6;
-		double valor2 = valor;
-		
 	}
 
 }

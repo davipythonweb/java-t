@@ -19,9 +19,6 @@ public class TipoPrimitivo {
 		
 		final double Dissidio = 10.8;
 		
-		var valor = 5.6;
-		double valor2 = valor;
-		
 	}
 
 }
