@@ -1,0 +1,9 @@
+package variaveis;
+
+public class TipoPrimitivo {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
