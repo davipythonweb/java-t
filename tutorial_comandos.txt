@@ -4,3 +4,17 @@ javac -d out teste/src/module-info.java teste/src/teste/Aviao.java
 
 DEPOIS EXECUTE:
 java --module-path out --module teste/teste.Aviao
+
+REGRA:
+EM TODO ARQUIVO JAVA que for escrever, é OBRIGADO declarar uma classe!
+REGRA2:
+o nome da classe tem que ser igual ao nome do ARQUIVO!
+obs:pode ter outras classes dentro do arquivo, mas é necessario ter pelo menos uma com o nome do arquivo.
+obs:a classe que tem o nome do arquivo tem que ter o atributo:public
+
+DECLARAR VARIAVAL(maneira simples):
+tipo nome = valor;
+
+OUTRA FORMA DE DECLARAR VARIAVAL:
+Var nome = valor;
+obs:o proprio java irá inferir o tipo da variavel.
