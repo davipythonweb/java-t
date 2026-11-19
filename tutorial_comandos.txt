@@ -1,0 +1,6 @@
+ENTRE NA PASTA DO PROJETO:
+cd /workspaces/java-t
+javac -d out teste/src/module-info.java teste/src/teste/Aviao.java
+
+DEPOIS EXECUTE:
+java --module-path out --module teste/teste.Aviao
