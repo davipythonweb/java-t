@@ -18,3 +18,7 @@ tipo nome = valor;
 OUTRA FORMA DE DECLARAR VARIAVAL:
 Var nome = valor;
 obs:o proprio java irá inferir o tipo da variavel.
+
+
+Rodar projeto com Spring-Boot:
+./mvnw spring-boot:run
