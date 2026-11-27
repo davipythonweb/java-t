@@ -20,5 +20,6 @@ Var nome = valor;
 obs:o proprio java irá inferir o tipo da variavel.
 
 
-Rodar projeto com Spring-Boot:
+Rodar projeto com Spring-Boot ( rodar dentro da pasta do projeto):
 ./mvnw spring-boot:run
+
